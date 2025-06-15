@@ -1,2 +1,0 @@
-# Bookstore
-Online Bookstore project
